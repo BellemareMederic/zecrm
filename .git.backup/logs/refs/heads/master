@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 e01f3d8d90a367690e8dc352e5335ed5deac42b1 Mederic Bellemare <bellemaremederic@gmail.com> 1507078832 -0400	clone: from https://gitlab.com/bellemaremederic/zecrm.git
+e01f3d8d90a367690e8dc352e5335ed5deac42b1 aa8623041fc40c10837efccdf2be9609e696abbd Mederic Bellemare <bellemaremederic@gmail.com> 1507093492 -0400	commit: patch des tabs whit table erreur de A en active qui brisais la chaine => il manque juste quelle que API googlecharts et ses fini
+aa8623041fc40c10837efccdf2be9609e696abbd be25bdeff760e1a82d4ae4da3207247e52a17261 Mederic Bellemare <bellemaremederic@gmail.com> 1507240808 -0400	commit: manque les extend
+be25bdeff760e1a82d4ae4da3207247e52a17261 2a28a89536d6902375a3dc58adeac408bc670d7f Mederic Bellemare <bellemaremederic@gmail.com> 1507248691 -0400	commit: manque les extend
+2a28a89536d6902375a3dc58adeac408bc670d7f e1bd4f4b90c793192659551538e0f6b92490a21d Mederic Bellemare <bellemaremederic@gmail.com> 1507500364 -0400	commit: les note son gerer par ajax
+e1bd4f4b90c793192659551538e0f6b92490a21d f750ad38413c9a54b96e16e36933fe2ea489837c Mederic Bellemare <bellemaremederic@gmail.com> 1507862287 -0400	commit: media query test
+f750ad38413c9a54b96e16e36933fe2ea489837c d948b7f153af3fa38fa2cd60dd488293e769f9a3 Mederic Bellemare <bellemaremederic@gmail.com> 1507868690 -0400	commit (merge): patch merge and try mnobile
+d948b7f153af3fa38fa2cd60dd488293e769f9a3 64babf02236571772fe62bbb9ef67e96b2869dbd Mederic Bellemare <bellemaremederic@gmail.com> 1508209087 -0400	commit: responsive charts
+64babf02236571772fe62bbb9ef67e96b2869dbd 1a1b7df40043ce9cca21effba7fa75b07a38ca88 Mederic Bellemare <bellemaremederic@gmail.com> 1508721840 -0400	commit: release
+1a1b7df40043ce9cca21effba7fa75b07a38ca88 f9ed11a12d084cb8fad4c105f7ef3a553e0e6f4b Mederic Bellemare <bellemaremederic@gmail.com> 1510333788 -0500	pull: Fast-forward
